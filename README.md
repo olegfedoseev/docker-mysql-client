@@ -1,5 +1,5 @@
 # docker-mysql-client
-Small MySQL client on Alpine linux
+Small MySQL client on Alpine Linux
 
 ## Example
 
